@@ -1,0 +1,55 @@
+html, body{
+    margin:0;
+}
+#imagem_fundo{
+    background: url("fundo.jpg");
+height: 150px;
+text-align: center;
+background-size: cover;
+}
+#titulo{
+    color:white;
+    padding-top: 2%;
+    font-size: 25px;
+}
+#subtitulo{
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#acao{
+    color: white;
+    border: 1px white solid;
+    padding: 10px 10px 10px 10px;
+}
+.icone{
+    width: 500px;
+}
+#Introdução{
+background-color:#f7f7f7;
+padding:75px;
+}
+#Dados{
+ padding:20px;
+}
+#Melhorias{
+padding:20px;
+}
+#conclusão{
+padding:10px;
+}
+.destaque{
+    background-color:#f7f7f7;
+}
+#sobre{
+    padding:20px;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 100%;
+}
+.justificado{
+    text-align: justify;
+}
